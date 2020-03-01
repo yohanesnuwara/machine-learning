@@ -1,2 +1,2 @@
 # machine-learning
-Practicing machine learning with Python 🐍
+Practicing machine learning **from scratch** with Python 🐍
