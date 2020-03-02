@@ -6,3 +6,4 @@ Practicing machine learning **from scratch** with Python 🐍
 Resources that I use to learn coding ML from scratch:
 * Jason Brownlee's Machine Learning Mastery
 * Youtube channels: Weight and Biases, Python Engineer, sentdex
+* https://www.ritchieng.com/
