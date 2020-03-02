@@ -1,5 +1,8 @@
 # Load a CSV file
 def load_csv(filename):
+  
+  from csv import reader
+  
   dataset = list()
   with open(filename, 'r') as file:
     csv_reader = reader(file)
