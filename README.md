@@ -7,3 +7,8 @@ Resources that I use to learn coding ML from scratch:
 * Jason Brownlee's Machine Learning Mastery
 * Youtube channels: Weight and Biases, Python Engineer, sentdex
 * https://www.ritchieng.com/
+
+Deep learning:
+* Youtube: Weight and Biases, 3blue1brown
+* http://neuralnetworksanddeeplearning.com
+* Lex Fridman's Github page MIT DeepLearning
