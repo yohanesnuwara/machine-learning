@@ -22,6 +22,7 @@ Practicing machine learning **from scratch** with Python 🐍
 * Matteo Niccoli's [predict](https://github.com/mycarta/predict) notebook compilation
 * Brendon Hall's [geochemical facies analysis using unsupervised ML](https://github.com/brendonhall/clustering_tutorial)
 * FORCE 2020 ML Challenge notebook by [Matteo Niccoli](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
+* ML for geospatial mining deposit data by [Aviandito](https://github.com/aviandito/geospatial-ml)
 * (Advanced Level) Jesper Dramsch' [CNN for seismic facies classification](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
 * (Advanced Level) TGS Salt identification challenge in [Kaggle](https://www.kaggle.com/c/tgs-salt-identification-challenge/notebooks)
 
