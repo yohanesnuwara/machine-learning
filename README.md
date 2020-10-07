@@ -23,8 +23,18 @@ Practicing machine learning **from scratch** with Python 🐍
 * Brendon Hall's [geochemical facies analysis using unsupervised ML](https://github.com/brendonhall/clustering_tutorial)
 * FORCE 2020 ML Challenge notebook by [Matteo Niccoli](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
 * ML for geospatial mining deposit data by [Aviandito](https://github.com/aviandito/geospatial-ml)
+* (Advanced Level) Xinming Wu's [fault extraction from seismic data](https://github.com/xinwucwp/faultSeg/blob/master/predNew.ipynb)
+* (Advanced Level) Braden Fitzgerald's [automated well-log correlation](https://github.com/dfitzgerald3/AutomatedWellLogCorrelation)
 * (Advanced Level) Jesper Dramsch' [CNN for seismic facies classification](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
 * (Advanced Level) TGS Salt identification challenge in [Kaggle](https://www.kaggle.com/c/tgs-salt-identification-challenge/notebooks)
+
+## Geoscience ML Contests
+* Seismic Facies Identification Challenge by SEAM (SEG Advanced Modeling): [Github](https://github.com/AIcrowd/seismic-facies-identification-starter-kit)
+* FORCE 2020
+* Unearthed Australia
+* SPWLA DDA
+* TGS Salt Identification 
+* Facies Classification Challenge by SEG and Agile 2017
 
 ## Resources that I use to learn coding ML from scratch:
 * Jason Brownlee's Machine Learning Mastery
