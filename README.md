@@ -16,7 +16,10 @@ Practicing machine learning **from scratch** with Python 🐍
 
 ## Applications in geoscience: good repo references to start
 * Ryan Mardani's [facies classification with ML](https://github.com/mardani72/Facies-Classification-Machine-Learning)
+* Ryan Mardani's [synthetic AI log from sonic log with ML](https://github.com/mardani72/AI_ML_Seismic_Log)
 * SEG 2017 [ML contest](https://github.com/seg/2016-ml-contest)
+* Matteo Niccoli's [predict](https://github.com/mycarta/predict) notebook compilation
+* Brendon Hall's [geochemical facies analysis using unsupervised ML](https://github.com/brendonhall/clustering_tutorial)
 
 ## Resources that I use to learn coding ML from scratch:
 * Jason Brownlee's Machine Learning Mastery
