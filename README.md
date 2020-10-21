@@ -22,6 +22,8 @@ Practicing machine learning **from scratch** with Python 🐍
 * Matteo Niccoli's [predict](https://github.com/mycarta/predict) notebook compilation
 * Brendon Hall's [geochemical facies analysis using unsupervised ML](https://github.com/brendonhall/clustering_tutorial)
 * FORCE 2020 ML Challenge notebook by [Matteo Niccoli](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
+* K-Means clustering for unsupervised facies typing, the [article](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6) and [Github](https://github.com/tannisthamaiti/ML_well_log)
+* Automated stratigraphy classification thesis by Petter Søland from Pro Well Plan AS, in [Github](https://github.com/pro-well-plan/thesis_stratigraphy_prediction_2019) 
 * ML for geospatial mining deposit data by [Aviandito](https://github.com/aviandito/geospatial-ml)
 * (Advanced Level) Xinming Wu's [fault extraction from seismic data](https://github.com/xinwucwp/faultSeg/blob/master/predNew.ipynb)
 * (Advanced Level) Braden Fitzgerald's [automated well-log correlation](https://github.com/dfitzgerald3/AutomatedWellLogCorrelation)
