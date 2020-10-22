@@ -21,8 +21,9 @@ Practicing machine learning **from scratch** with Python 🐍
 * Brendon Hall's notebook on the SEG 2017 ML contest, [classification with SVM](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
 * Matteo Niccoli's [predict](https://github.com/mycarta/predict) notebook compilation
 * Brendon Hall's [geochemical facies analysis using unsupervised ML](https://github.com/brendonhall/clustering_tutorial)
-* FORCE 2020 ML Challenge notebook by [Matteo Niccoli](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
-* FORCE 2020 ML Challenge exploratory data analysis [Notebook](https://nbviewer.jupyter.org/urls/gitlab.com/hilde.tveit.haland/public-notebooks/-/raw/master/Force%202020-%20CegalWells%20EDA.ipynb)
+* FORCE 2020 Facies ML Challenge notebook by [Matteo Niccoli](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
+* FORCE 2020 Facies ML Challenge exploratory data analysis [Notebook](https://nbviewer.jupyter.org/urls/gitlab.com/hilde.tveit.haland/public-notebooks/-/raw/master/Force%202020-%20CegalWells%20EDA.ipynb)
+* FORCE 2020 Seismic ML Challenge by @blasscoc [Notebook](https://github.com/blasscoc/easy-as)
 * K-Means clustering for unsupervised facies typing, the [article](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6) and [Github](https://github.com/tannisthamaiti/ML_well_log)
 * Automated stratigraphy classification thesis by Petter Søland from Pro Well Plan AS, in [Github](https://github.com/pro-well-plan/thesis_stratigraphy_prediction_2019) 
 * ML for geospatial mining deposit data by [Aviandito](https://github.com/aviandito/geospatial-ml)
