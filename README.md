@@ -13,6 +13,7 @@ Practicing machine learning **from scratch** with Python 🐍
 * FORCE 2020 Facies ML Challenge notebook by [Matteo Niccoli](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
 * FORCE 2020 Facies ML Challenge exploratory data analysis [Notebook](https://nbviewer.jupyter.org/urls/gitlab.com/hilde.tveit.haland/public-notebooks/-/raw/master/Force%202020-%20CegalWells%20EDA.ipynb)
 * FORCE 2020 Seismic ML Challenge by @blasscoc [Notebook](https://github.com/blasscoc/easy-as)
+* Seismic fault interpretation deep learning Leocd [Github](https://github.com/leocd91/geoscience-ML-tutorial/blob/main/01_Seismic_Fault_Classification_DeepLearning_Synthetic.ipynb)
 * K-Means clustering for unsupervised facies typing, the [article](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6) and [Github](https://github.com/tannisthamaiti/ML_well_log)
 * Automated stratigraphy classification thesis by Petter Søland from Pro Well Plan AS, in [Github](https://github.com/pro-well-plan/thesis_stratigraphy_prediction_2019) 
 * ML for geospatial mining deposit data by [Aviandito](https://github.com/aviandito/geospatial-ml)
