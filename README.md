@@ -21,6 +21,9 @@ Practicing machine learning **from scratch** with Python 🐍
 * (Advanced Level) Braden Fitzgerald's [automated well-log correlation](https://github.com/dfitzgerald3/AutomatedWellLogCorrelation)
 * (Advanced Level) Jesper Dramsch' [CNN for seismic facies classification](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
 * (Advanced Level) TGS Salt identification challenge in [Kaggle](https://www.kaggle.com/c/tgs-salt-identification-challenge/notebooks)
+* Michael Pyrcz
+* Paolo del'Aversana
+* John Hedengren online courses
 
 ## Geoscience ML Contests
 * Seismic Facies Identification Challenge by SEAM (SEG Advanced Modeling): [Github](https://github.com/AIcrowd/seismic-facies-identification-starter-kit)
