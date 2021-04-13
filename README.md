@@ -5,15 +5,18 @@ Practicing machine learning **from scratch** with Python 🐍
 
 |Application|Author|GitHub|Notebooks|Article|
 |:--:|:--:|:--:|:--:|:--:|
-|Facies classification|Ryan Mardani|* [Project](https://github.com/mardani72/Facies-Classification-Machine-Learning) <br> * [4-part tutorial](https://github.com/mardani72/Practical_ML_Tutorial_Facies_examp)||[4-part tutorial](https://towardsdatascience.com/practical-machine-learning-tutorial-part-1-data-exploratory-analysis-c13d39b8f33b)|
+|Facies classification <br> (SEG 2017 contest)|Brendon Hall|[SEG 2016 contest](https://github.com/seg/2016-ml-contest)|||
+|Facies classification <br> (SEG 2017 contest)|Ryan Mardani|- [Project](https://github.com/mardani72/Facies-Classification-Machine-Learning) <br> - [4-part tutorial](https://github.com/mardani72/Practical_ML_Tutorial_Facies_examp)||[4-part tutorial](https://towardsdatascience.com/practical-machine-learning-tutorial-part-1-data-exploratory-analysis-c13d39b8f33b)|
+|Facies classification <br> (SEG 2017 contest)|Matteo Niccoli|[EDA](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)|||
+||||||
 ||||||
 ||||||
 
 ## Applications in geoscience: good repo references to start
-* Ryan Mardani's [facies classification with ML](https://github.com/mardani72/Facies-Classification-Machine-Learning)
+* Ryan Mardani's [facies classification with ML](https://github.com/mardani72/Facies-Classification-Machine-Learning) ok
 * Ryan Mardani's [synthetic AI log from sonic log with ML](https://github.com/mardani72/AI_ML_Seismic_Log)
-* SEG 2017 [ML contest](https://github.com/seg/2016-ml-contest)
-* Brendon Hall's notebook on the SEG 2017 ML contest, [classification with SVM](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
+* SEG 2017 [ML contest](https://github.com/seg/2016-ml-contest) ok
+* Brendon Hall's notebook on the SEG 2017 ML contest, [classification with SVM](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA) ok
 * Matteo Niccoli's [predict](https://github.com/mycarta/predict) notebook compilation
 * Brendon Hall's [geochemical facies analysis using unsupervised ML](https://github.com/brendonhall/clustering_tutorial)
 * FORCE 2020 Facies ML Challenge notebook by [Matteo Niccoli](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
