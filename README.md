@@ -5,7 +5,7 @@ Practicing machine learning **from scratch** with Python 🐍
 
 |Application|Author|GitHub|Notebooks|Article|
 |:--:|:--:|:--:|:--:|:--:|
-|Facies classification|Ryan Mardani|[GitHub](https://github.com/mardani72/Facies-Classification-Machine-Learning)|||
+|Facies classification|Ryan Mardani|* [Project](https://github.com/mardani72/Facies-Classification-Machine-Learning) <br> * [4-part tutorial](https://github.com/mardani72/Practical_ML_Tutorial_Facies_examp)||[4-part tutorial](https://towardsdatascience.com/practical-machine-learning-tutorial-part-1-data-exploratory-analysis-c13d39b8f33b)|
 ||||||
 ||||||
 
