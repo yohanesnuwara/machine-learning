@@ -3,11 +3,16 @@ Practicing machine learning **from scratch** with Python 🐍
 
 ![MachineLearningAlgorithms](https://user-images.githubusercontent.com/51282928/75629032-2dc05400-5c11-11ea-9ab0-c920e79b6d66.png)
 
-|Application|Author|GitHub|Notebooks|Article|
+|Topic|Author|GitHub|Notebooks|Article|
 |:--:|:--:|:--:|:--:|:--:|
-|Facies classification <br> (SEG 2017 contest)|Brendon Hall|[SEG 2016 contest](https://github.com/seg/2016-ml-contest)|||
-|Facies classification <br> (SEG 2017 contest)|Ryan Mardani|- [Project](https://github.com/mardani72/Facies-Classification-Machine-Learning) <br> - [4-part tutorial](https://github.com/mardani72/Practical_ML_Tutorial_Facies_examp)||[4-part tutorial](https://towardsdatascience.com/practical-machine-learning-tutorial-part-1-data-exploratory-analysis-c13d39b8f33b)|
-|Facies classification <br> (SEG 2017 contest)|Matteo Niccoli|[EDA](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)|||
+|Tutorial|Matteo Niccoli|["Predict" series](https://github.com/mycarta/predict)|||
+|Facies classification <br> (SEG 2016 contest)|SEG|[GitHub](https://github.com/seg/2016-ml-contest)|||
+|Facies classification <br> (SEG 2016 contest)|Ryan Mardani|- [Project](https://github.com/mardani72/Facies-Classification-Machine-Learning) <br> - [4-part tutorial](https://github.com/mardani72/Practical_ML_Tutorial_Facies_examp)||[4-part tutorial](https://towardsdatascience.com/practical-machine-learning-tutorial-part-1-data-exploratory-analysis-c13d39b8f33b)|
+|Facies classification <br> (FORCE 2020 contest)|FORCE|[GitHub](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition)|||
+|Facies classification <br> (FORCE 2020 contest)|Matteo Niccoli|[EDA](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)|||
+|Facies classification <br> (FORCE 2020 contest)|Andy McDonald||[EDA notebook](https://nbviewer.jupyter.org/github/andymcdgeo/Petrophysics-Python-Series/blob/master/10%20-%20Exploratory%20Data%20Analysis%20with%20Well%20Log%20Data.ipynb)|[Towards Data Science](https://towardsdatascience.com/exploratory-data-analysis-with-well-log-data-98ad084c4e7)|
+|Unsupervised facies clustering||[GitHub]((https://github.com/tannisthamaiti/ML_well_log))||[Towards Data Science](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)|
+|Unsupervised geochemical clustering|Brendon Hall|[GitHub](https://github.com/brendonhall/clustering_tutorial)|||
 ||||||
 ||||||
 ||||||
@@ -17,13 +22,12 @@ Practicing machine learning **from scratch** with Python 🐍
 * Ryan Mardani's [synthetic AI log from sonic log with ML](https://github.com/mardani72/AI_ML_Seismic_Log)
 * SEG 2017 [ML contest](https://github.com/seg/2016-ml-contest) ok
 * Brendon Hall's notebook on the SEG 2017 ML contest, [classification with SVM](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA) ok
-* Matteo Niccoli's [predict](https://github.com/mycarta/predict) notebook compilation
-* Brendon Hall's [geochemical facies analysis using unsupervised ML](https://github.com/brendonhall/clustering_tutorial)
-* FORCE 2020 Facies ML Challenge notebook by [Matteo Niccoli](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)
-* FORCE 2020 Facies ML Challenge exploratory data analysis [Notebook](https://nbviewer.jupyter.org/urls/gitlab.com/hilde.tveit.haland/public-notebooks/-/raw/master/Force%202020-%20CegalWells%20EDA.ipynb)
+* Matteo Niccoli's [predict](https://github.com/mycarta/predict) notebook compilation ok
+* Brendon Hall's [geochemical facies analysis using unsupervised ML](https://github.com/brendonhall/clustering_tutorial) ok
+* FORCE 2020 Facies ML Challenge exploratory data analysis [Notebook](https://nbviewer.jupyter.org/urls/gitlab.com/hilde.tveit.haland/public-notebooks/-/raw/master/Force%202020-%20CegalWells%20EDA.ipynb) ok
 * FORCE 2020 Seismic ML Challenge by @blasscoc [Notebook](https://github.com/blasscoc/easy-as)
 * Seismic fault interpretation deep learning Leocd [Github](https://github.com/leocd91/geoscience-ML-tutorial/blob/main/01_Seismic_Fault_Classification_DeepLearning_Synthetic.ipynb)
-* K-Means clustering for unsupervised facies typing, the [article](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6) and [Github](https://github.com/tannisthamaiti/ML_well_log)
+* K-Means clustering for unsupervised facies typing, the [article](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6) and [Github](https://github.com/tannisthamaiti/ML_well_log) ok
 * Automated stratigraphy classification thesis by Petter Søland from Pro Well Plan AS, in [Github](https://github.com/pro-well-plan/thesis_stratigraphy_prediction_2019) 
 * ML for geospatial mining deposit data by [Aviandito](https://github.com/aviandito/geospatial-ml)
 * (Advanced Level) Xinming Wu's [fault extraction from seismic data](https://github.com/xinwucwp/faultSeg/blob/master/predNew.ipynb)
