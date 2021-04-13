@@ -11,9 +11,9 @@ Practicing machine learning **from scratch** with Python 🐍
 |Facies classification <br> (FORCE 2020 contest)|FORCE|[GitHub](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition)|||
 |Facies classification <br> (FORCE 2020 contest)|Matteo Niccoli|[EDA](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)|||
 |Facies classification <br> (FORCE 2020 contest)|Andy McDonald||[EDA notebook](https://nbviewer.jupyter.org/github/andymcdgeo/Petrophysics-Python-Series/blob/master/10%20-%20Exploratory%20Data%20Analysis%20with%20Well%20Log%20Data.ipynb)|[Towards Data Science](https://towardsdatascience.com/exploratory-data-analysis-with-well-log-data-98ad084c4e7)|
-|Unsupervised facies clustering||[GitHub]((https://github.com/tannisthamaiti/ML_well_log))||[Towards Data Science](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)|
+|Unsupervised facies clustering|||[Notebook](https://nbviewer.jupyter.org/github/tannisthamaiti/ML_well_log/blob/master/Welldata_manyfeatures.ipynb)|[Towards Data Science](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6)|
 |Unsupervised geochemical clustering|Brendon Hall|[GitHub](https://github.com/brendonhall/clustering_tutorial)|||
-||||||
+|Stratigraphy classification|Petter Søland|[Github](https://github.com/pro-well-plan/thesis_stratigraphy_prediction_2019)|||
 ||||||
 ||||||
 
@@ -28,7 +28,7 @@ Practicing machine learning **from scratch** with Python 🐍
 * FORCE 2020 Seismic ML Challenge by @blasscoc [Notebook](https://github.com/blasscoc/easy-as)
 * Seismic fault interpretation deep learning Leocd [Github](https://github.com/leocd91/geoscience-ML-tutorial/blob/main/01_Seismic_Fault_Classification_DeepLearning_Synthetic.ipynb)
 * K-Means clustering for unsupervised facies typing, the [article](https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6) and [Github](https://github.com/tannisthamaiti/ML_well_log) ok
-* Automated stratigraphy classification thesis by Petter Søland from Pro Well Plan AS, in [Github](https://github.com/pro-well-plan/thesis_stratigraphy_prediction_2019) 
+* Automated stratigraphy classification thesis by Petter Søland from Pro Well Plan AS, in [Github](https://github.com/pro-well-plan/thesis_stratigraphy_prediction_2019) ok
 * ML for geospatial mining deposit data by [Aviandito](https://github.com/aviandito/geospatial-ml)
 * (Advanced Level) Xinming Wu's [fault extraction from seismic data](https://github.com/xinwucwp/faultSeg/blob/master/predNew.ipynb)
 * (Advanced Level) Braden Fitzgerald's [automated well-log correlation](https://github.com/dfitzgerald3/AutomatedWellLogCorrelation)
