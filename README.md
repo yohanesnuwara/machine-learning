@@ -3,6 +3,12 @@ Practicing machine learning **from scratch** with Python 🐍
 
 ![MachineLearningAlgorithms](https://user-images.githubusercontent.com/51282928/75629032-2dc05400-5c11-11ea-9ab0-c920e79b6d66.png)
 
+|Application|Author|GitHub|Notebooks|Article|
+|:--:|:--:|:--:|:--:|:--:|
+|Facies classification|Ryan Mardani|[GitHub](https://github.com/mardani72/Facies-Classification-Machine-Learning)|||
+||||||
+||||||
+
 ## Applications in geoscience: good repo references to start
 * Ryan Mardani's [facies classification with ML](https://github.com/mardani72/Facies-Classification-Machine-Learning)
 * Ryan Mardani's [synthetic AI log from sonic log with ML](https://github.com/mardani72/AI_ML_Seismic_Log)
